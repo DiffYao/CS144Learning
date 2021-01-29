@@ -13,3 +13,4 @@
 
 ## 本项目
   本项目将包括我的学习笔记和实验代码。
+  别人的博客推荐: https://www.cnblogs.com/pengzhangzhi/p/14221061.html
